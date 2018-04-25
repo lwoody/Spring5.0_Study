@@ -12,7 +12,11 @@ Spring 프레임워크에서 가장 중요한 기술이 IoC(inversion of control
 
 ## 1.1 IoC 컨테이너, Bean 소개
 
-<u>IoC는 DI(depnedency Injection) 의존성 주입</u>
+<u>spring IoC컨테이너는 DI(depnedency Injection) 의존성 주입</u>
+
+Ioc라는게 컨테이너에 객체 생성, 관리를 일임(즉 제어권의 역전)하고 DL, DI 방식으로 사용할 수 있게 끔 한것으로 암. 
+
+*cf ) DL은 각 컨테이너에서 객체들을 관리하는 별도의 저장소를 가지는데 여기에있는 Bean을 접근하기 위해서 컨테이너에서 제공하는 API를 이용해 bean을 lookup하는 것을 말한다. 따라서 컨테이너 api(app)과 객체들간에 의존관계를 맺게 되는것.*
 
 의존성 = 객체간의 결합관계
 
