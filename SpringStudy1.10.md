@@ -118,6 +118,8 @@ public class SessionScopedUserService implements UserService {
 > https://minwan1.github.io/2017/10/29/2017-10-29-Spring-AOP-Proxy/
 >
 > https://m.blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220558804255&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+>
+> http://www.baeldung.com/spring-aop-vs-aspectj
 
 
 
