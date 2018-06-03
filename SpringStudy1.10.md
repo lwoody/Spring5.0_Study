@@ -108,6 +108,8 @@ public class SessionScopedUserService implements UserService {
 > Using INTERFACES should be used if possible and TARGET as last resort if the bean does not implement interfaces.
 >
 > cglib, jdk proxy : http://wonwoo.ml/index.php/post/1576, http://wiki.javajigi.net/pages/viewpage.action?pageId=1065
+>
+> http://javacan.tistory.com/entry/114
 
 
 
